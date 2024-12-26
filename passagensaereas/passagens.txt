@@ -1,0 +1,6 @@
+4
+5
+1;GRU;ORD;Guarulhos;Chicago;10/05/2025;21:40;15:44;2830.00
+2;CNF;PEK;Confins;Pequim;08/07/2024;14:40;18:50;1960.00
+3;CGH;SYD;Congonhas;Sydney;20/09/2024;10:40;17:59;1630.00
+5;VCP;POA;Campinas;Porto Alegre;29/06/2024;04:20;12:30;740.00
